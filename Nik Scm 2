@@ -7,4 +7,3 @@ if ($t < "20") {
     echo "Have a good night!";
 }
 ?>
-dasdsa
